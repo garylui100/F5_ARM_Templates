@@ -1,4 +1,4 @@
-# Quick Start: Deploying the SCCA BIG-IP VEs in Azure - ConfigSync Cluster (Active/Active): 3 NIC
+# Quick Start: Deploying the SCCA BIG-IP VEs in Azure - ConfigSync Cluster (Active/Active) - 3 NICs
 
 ## Contents
 
