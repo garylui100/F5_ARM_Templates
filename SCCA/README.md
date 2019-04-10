@@ -79,7 +79,7 @@ Use the appropriate button below to deploy:
 
 - **BYOL** (bring your own license): This allows you to use an existing BIG-IP license.
 
-  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FF5Networks%2Ff5-azure-arm-templates%2Fv6.0.4.0%2Fsupported%2Ffailover%2Fsame-net%2Fvia-lb%2F3nic%2Fnew-stack%2Fbyol%2Fazuredeploy.json)
+  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/garyluf5/F5_ARM_Templates/master/SCCA/gary3tiersHA_v2.json)
 
 ### Template parameters
 
@@ -140,9 +140,9 @@ As an alternative to deploying through the Azure Portal (GUI) each solution prov
 
 ## Configuration Example
 
-The following is an example configuration diagram for this solution deployment. In this scenario, all access to the BIG-IP VE cluster (Active/Active) is through an ALB. For diagrams of alternate deployment topologies, see [alternate topologies](../../alternate-deployment-topologies.md).
+The following is an example configuration diagram for this solution deployment. In this scenario, all access to the BIG-IP VE cluster (Active/Active) is through an ALB. 
 
-![Configuration Example](../images/azure-example-diagram.png)
+![Configuration Example](./SCCA.png)
 
 ## Post-Deployment Configuration
 
