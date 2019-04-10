@@ -146,7 +146,7 @@
             "metadata": {
                 "description": "Specify a the type of Northbound Azure load balancer to deploy. Note: As of the initial release of this template,  it is default to Public-alb"
             },
-            "type": "securestring"
+            "type": "string"
         },
         "NorthUntrustedAddressSubnet": {
             "defaultValue": "192.168.2.0/24",
@@ -199,7 +199,7 @@
             "metadata": {
                 "description": "Specify whether IPS Tier would deploy from this template. If 'Yes', then this is a 3-teirs architecture, otherwise it is 2-tiers architecture"
             },
-            "type": "securestring"
+            "type": "string"
         },
         "IPSUntrustedAddressSubnet": {
             "defaultValue": "192.168.5.0/24",
