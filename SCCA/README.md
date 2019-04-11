@@ -1,7 +1,7 @@
 # Quick Start: Deploying the SCCA BIG-IP VEs in Azure - ConfigSync Cluster (Active/Active) - 3 NICs
 
 ## Important
-![stop](./stop-hand-sign-vector.jpg){:height="36px" width="36px"}.
+![stop](./stop-hand-sign-vector.jpg)<img src="./stop-hand-sign-vector.jpg" width="48">
 ds
 
 ## Contents
