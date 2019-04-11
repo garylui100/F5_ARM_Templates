@@ -84,7 +84,7 @@ Use the appropriate button below to deploy:
 
 - **BYOL** (bring your own license): This allows you to use an existing BIG-IP license.
 
-  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgaryluf5%2FF5_ARM_Templates%2Fmaster%2FSCCA%2Fgary3tiersHA_v2.json)
+  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgaryluf5%2FF5_ARM_Templates%2Fmaster%2FSCCA%2FSCCA_Azure_Public_Cloud.json)
 
 ### Template parameters
 
