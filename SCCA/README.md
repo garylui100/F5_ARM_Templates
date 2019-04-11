@@ -1,9 +1,9 @@
 # Quick Start: Deploying the SCCA BIG-IP VEs in Azure - ConfigSync Cluster (Active/Active) - 3 NICs
 
 ## Caveat
-<img src="./stop-hand-sign-vector.jpg" width="48">**STOP**
+<img src="./stop-hand-sign-vector.jpg" width="48">
 
-test
+This is a quick start deployment, which will deploy all the required Azure Resources for the [F5 SCCA architecture](https://clouddocs.f5.com/training/community/azure-saca/html/class1/architecture.html) in just about 10 minutes. This is **NOT** meant to be used for Azure Gov cloud, otherwise please check out the [F5devcentral github](https://github.com/f5devcentral/f5-azure-saca) for the Azure Gov cloud ARM template. 
 
 ## Contents
 
